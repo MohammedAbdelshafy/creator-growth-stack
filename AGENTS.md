@@ -1,4 +1,4 @@
-# Creator Growth Toolkit
+# Creator Growth Stack
 
 Route by task:
 - Public offer: [index.html](index.html)
