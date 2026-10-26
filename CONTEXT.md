@@ -2,20 +2,20 @@
 type: repository
 status: candidate
 owner_repo: MohammedAbdelshafy/creator-growth-stack
-product_name: Creator Growth Toolkit
+product_name: Creator Growth Stack
 source_of_truth: https://github.com/MohammedAbdelshafy/creator-growth-stack
 ---
 
-# Creator Growth Toolkit CONTEXT
+# Creator Growth Stack CONTEXT
 
 One job: present a scoped, truthful offer for existing creator-facing tools without implying that separate prototypes already form one live pipeline.
 
 ## Inputs
 - Landing page: [index.html](index.html)
 - Scope and price caveats: [README](README.md)
-- Supporting content tool: [Clip Delivery Tools](https://github.com/MohammedAbdelshafy/clipops-studio)
-- Sales workflows: [Sales Follow-Up Workspace](https://github.com/MohammedAbdelshafy/ai-sales-os)
-- Data cleanup: [Lead List Cleanup](https://github.com/MohammedAbdelshafy/dataclean-ai)
+- Supporting content tool: [ClipOps Studio](https://github.com/MohammedAbdelshafy/clipops-studio)
+- Sales workflows: [SalesOS](https://github.com/MohammedAbdelshafy/ai-sales-os)
+- Data cleanup: [Veridata](https://github.com/MohammedAbdelshafy/dataclean-ai)
 
 ## Process
 1. Identify the one business problem the creator wants solved first.

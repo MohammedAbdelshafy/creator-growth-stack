@@ -6,9 +6,9 @@ A landing page for a proposed set of tools for creator teams: content preparatio
 
 ## Current scope
 
-- **Clip Delivery Tools:** the repository currently contains an image-batch utility. The larger video workflow described in its README is planned, not shipped in that repository.
-- **Sales Follow-Up Workspace:** review its own README and tests before assuming that a particular CRM or live automation is connected.
-- **Lead List Cleanup:** a done-for-you file cleanup offer; confirm actual rules, delivery date and payment path before a commitment.
+- **ClipOps Studio:** the repository currently contains an image-batch utility. The larger video workflow described in its README is planned, not shipped in that repository.
+- **SalesOS:** review its own README and tests before assuming that a particular CRM or live automation is connected.
+- **Veridata:** a done-for-you file cleanup offer; confirm actual rules, delivery date and payment path before a commitment.
 
 This page does not represent a verified end-to-end revenue pipeline. Each component must be checked and scoped separately.
 
