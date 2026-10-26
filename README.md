@@ -1,4 +1,4 @@
-# Creator Growth Toolkit
+# Creator Growth Stack
 
 A landing page for a proposed set of tools for creator teams: content preparation, sales follow-up and lead-list cleanup.
 
@@ -18,4 +18,4 @@ The $999 bundle is a planning hypothesis. It is not a live checkout or proof of 
 
 ## Project wording
 
-The customer-facing name is **Creator Growth Toolkit**. The repository slug remains creator-growth-stack. See the [portfolio language guide](https://github.com/MohammedAbdelshafy/jarvis-mbm/blob/feature/icm-portfolio-map/ICM/_shared/customer-language.md).
+The established product name is **Creator Growth Stack**. The repository slug remains creator-growth-stack. See the [portfolio language guide](https://github.com/MohammedAbdelshafy/jarvis-mbm/blob/feature/icm-portfolio-map/ICM/_shared/customer-language.md).
